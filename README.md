@@ -1,4 +1,4 @@
-# pausemenu
+# Pause Menu
 
 **TM1 Pause Menu** is a menu accessible by pressing the escape key, allowing quick shortcuts to actions frequently used on the server. Among these actions are:
 
