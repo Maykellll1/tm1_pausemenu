@@ -38,4 +38,5 @@ What are you waiting for to buy it?
 https://www.youtube.com/watch?v=OMN9nbtsfwo
 
 This is a script versioning the source script in the pause menu but with improved aspects.
-The code is entirely your own.
+
+The code is completely its own except for some lines that have been extracted directly from the dpemotes resource to use the animation.
